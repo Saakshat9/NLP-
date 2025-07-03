@@ -1,4 +1,4 @@
-# YpuTube Channel Classifier
+# YouTube Channel Classifier
 This project exemplifies the intersection of Computational Intelligence and Natural 
 Language Processing in automating the classification of YouTube channels. By leveraging various 
 techniques in text processing, feature extraction, and machine learning, the developed system 
